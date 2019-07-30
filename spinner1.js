@@ -1,3 +1,5 @@
+const animations = ['|', '/', '-', '\\', '|', '/', '-', '\\', '|', '\n']
+
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 100);
